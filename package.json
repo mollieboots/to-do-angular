@@ -37,5 +37,13 @@
   },
   "main": "gulpfile.js",
   "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mollieboots/to-do-angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mollieboots/to-do-angular/issues"
+  },
+  "homepage": "https://github.com/mollieboots/to-do-angular#readme",
   "description": ""
 }

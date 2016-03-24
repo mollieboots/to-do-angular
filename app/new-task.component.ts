@@ -6,7 +6,7 @@ import { Task } from './task.model';
   outputs: ['onSubmitNewTask'],
   template: `
     <div class="task-form">
-    <h3>Create Task:</h3>
+    <h4>Create Task:</h4>
     <input placeholder="Description" class="col-sm-8 input-lg" #newDescription>
     <button (click)="addTask(newDescription)" class="btn-success btn-lg add-button">Add</button>
     </div>
